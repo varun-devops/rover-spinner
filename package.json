@@ -1,0 +1,24 @@
+{
+  "name": "rover-spinner",
+  "version": "1.0.0",
+  "description": "A flexible CSS loader spinner package for React, Vite, Express, and other frameworks.",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "spinner",
+    "loader",
+    "css",
+    "animation",
+    "react",
+    "vite",
+    "express"
+  ],
+  "author": "varun singh",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.0"
+  }
+}
