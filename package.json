@@ -1,6 +1,6 @@
 {
   "name": "rover-spinner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A flexible CSS loader spinner package for React, Vite, Express, and other frameworks.",
   "main": "index.js",
   "module": "index.js",
