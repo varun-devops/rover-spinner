@@ -13,6 +13,6 @@ function createSpinner() {
   return spinner;
 }
 
-module.exports = {
+export default {
   createSpinner
 };
